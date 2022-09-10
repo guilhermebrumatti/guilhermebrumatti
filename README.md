@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guilhermebrumatti
-- 👀 I’m interested in html5 and everything related to frontend.
-- 🌱 I’m currently learning front-end technologies.
+- 👀 I’m interested in Python, SQL, webscraping and everything related to Data Engineer.
+- 🌱 I’m currently learning data engineer technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

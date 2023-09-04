@@ -1,4 +1,4 @@
-<span><b>Obrigado pela visita aos meus projetos GitHub!</b></span><br><br>
+<span><b>Obrigado por visitar meus projetos aqui no GitHub!</b></span><br><br>
 
 <span>Me chamo Guilherme Brumatti e sou um entusiasta de tecnologia, especialmente na área de Engenharia de Dados. Meu objetivo é mergulhar cada vez mais fundo nesse universo e compartilhar meu conhecimento com outros apaixonados por essa área.
 Com um foco especializado em Engenharia de Dados, sou um aprendiz eterno de tecnologias como PYTHON, PANDAS, PYSPARK, MYSQL, SQLITE3, SQLALCHEMY, ETL, ELT, DOCKER, AIRFLOW, MODELAGEM DE BANCO DE DADOS e muito mais. Minha jornada inclui explorar diversas tecnologias em nuvem, como AWS e GCP, além de dominar as práticas de controle de versão com GIT.<br><br>

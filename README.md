@@ -44,10 +44,10 @@ Todas as linguagens e ferramentas que já estudei:<br><br>
   <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/git.svg" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 <a href="https://www.mongodb.com/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/mongodb.svg" alt="python" width="60" height="60" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/mongodb.svg" alt="python" width="70" height="70" style="max-width: 100%;">
 </a>
 <a href="https://www.mysql.com/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/mysql.svg" alt="python" width="60" height="60" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/mysql.svg" alt="python" width="65" height="65" style="max-width: 100%;">
 </a>
 <a href="https://pandas.pydata.org/">
   <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/pandas.svg" alt="python" width="60" height="60" style="max-width: 100%;">
@@ -56,10 +56,10 @@ Todas as linguagens e ferramentas que já estudei:<br><br>
   <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/python-original.svg" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 <a href="https://www.docker.com/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/docker.png" alt="python" width="60" height="60" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/docker.png" alt="python" width="75" height="75" style="max-width: 100%;">
 </a>
 <a href="https://airflow.apache.org/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/AirflowLogo.png" alt="python" width="60" height="60" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/AirflowLogo.png" alt="python" width="75" height="75" style="max-width: 100%;">
 </a>
 
 Data Engineer | Engenheiro de Dados | Data Analytics | Analista de Dados

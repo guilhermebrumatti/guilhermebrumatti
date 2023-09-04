@@ -32,34 +32,34 @@ Se você deseja conhecer mais sobre meu trabalho, pode conferir meu portfólio:<
 
 Todas as linguagens e ferramentas que já estudei:<br><br>
 <a href="https://www.python.org" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 <a href="https://cloud.google.com/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/gcp.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/gcp.svg" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 <a href="https://aws.amazon.com/pt/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/aws.png" alt="python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/aws.png" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 <a href="https://git-scm.com/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/git.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/git.svg" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 <a href="https://www.mongodb.com/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/mongodb.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/mongodb.svg" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 <a href="https://www.mysql.com/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/mysql.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/mysql.svg" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 <a href="https://pandas.pydata.org/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/pandas.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/pandas.svg" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 <a href="https://spark.apache.org">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/python-original.svg" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 <a href="https://www.docker.com/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/docker.png" alt="python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/docker.png" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 <a href="https://airflow.apache.org/">
-  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/AirflowLogo.png" alt="python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/logos/AirflowLogo.png" alt="python" width="60" height="60" style="max-width: 100%;">
 </a>
 
 Data Engineer | Engenheiro de Dados | Data Analytics | Analista de Dados

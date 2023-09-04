@@ -30,7 +30,7 @@ Se você deseja conhecer mais sobre meu trabalho, pode conferir meu portfólio:<
 • GitHub: https://github.com/guilhermebrumatti/indice_projetos_engenharia_de_dados<br><br>
 "O compartilhamento de conhecimento é uma das minhas paixões, e acredito que juntos podemos impulsionar o crescimento na área de Dados."
 
-All languages and tools I already studied:<br><br>
+Todas as linguagens e ferramentas que já estudei:<br><br>
 <a href="https://www.python.org" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
 </a>

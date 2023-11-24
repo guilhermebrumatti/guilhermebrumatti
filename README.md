@@ -26,7 +26,6 @@ Desenvolvi e aprimoro minhas soft skills, como:<br>
 Estou sempre em busca de desafios emocionantes e oportunidades de aprendizado contínuo.<br>
 
 Se você deseja conhecer mais sobre meu trabalho, pode conferir meu portfólio:<br>
-• Portfolio: https://sites.google.com/view/guilhermebrumatti/<br>
 • GitHub: https://github.com/guilhermebrumatti/indice_projetos_engenharia_de_dados<br><br>
 "O compartilhamento de conhecimento é uma das minhas paixões, e acredito que juntos podemos impulsionar o crescimento na área de Dados."
 
